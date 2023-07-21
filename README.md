@@ -1,14 +1,16 @@
-#Análise de Desempenho de Alunos
+Análise de Desempenho de Alunos
 
 Este projeto em Python tem como objetivo analisar o desempenho de alunos em diversas situações, utilizando técnicas de análise de dados e visualização.
 
-##Bibliotecas Utilizadas
+Bibliotecas Utilizadas
 Pandas: Para manipulação e análise dos dados tabulares.
 NumPy: Para suporte a arrays e cálculos numéricos.
 Seaborn: Para criação de visualizações estatísticas e gráficos informativos.
 Matplotlib: Para geração de gráficos e visualizações personalizadas.
 
-##Instalação
+![Students-Project](https://github.com/mateussoliv/Desempenho-de-Alunos-Python/assets/91861565/5c9cb183-85a3-4a8c-848d-77c04522228c)
+
+Instalação
 Certifique-se de ter o Python instalado (versão recomendada: Python 3.7 ou superior).
 Clone este repositório para o seu sistema local ou faça o download do código-fonte.
 
